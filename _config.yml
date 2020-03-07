@@ -2,13 +2,13 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://damonwang888.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
+title: Damon
+subtitle: "滤过幻光"
+description: "DamonWang的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+timezone: Asia/ChengDu
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
