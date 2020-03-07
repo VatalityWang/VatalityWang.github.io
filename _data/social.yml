@@ -2,26 +2,26 @@
   name: DamonWang
   url: https://github.com/DamonWang888
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+# - sitename: 掘金
+#   name: mzlogin
+#   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
 
 - sitename: LinkedIn
   name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+  url: https://www.linkedin.com/in/春机-王-b8783515a
 
-- sitename: 博客
-  name: Damon
-  url: http://DamonWang888.github.io
+# - sitename: 博客
+#   name: Damon
+#   url: http://DamonWang888.github.io
 
 - sitename: 微博
   name: mzlogin
-  url: http://weibo.com/mzlogin
+  url: http://weibo.com/DamonWang888
 
 - sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+  name: 欧阳正丰
+  url: http://www.zhihu.com/people/ou-yang-zheng-feng-55
 
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim
+# - sitename: 豆瓣
+#   name: 壮哥不胖
+#   url: http://www.douban.com/people/freedim
