@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: damonwang888/damonwang888.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,11 +95,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: DamonWang888
+    repo: BlogComment
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: f952cd4277d691c98940
+        client_secret: b1266fa7a5a05cfee8ebf0424aa39066af1a15ad
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: DamonWang888
