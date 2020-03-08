@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: damonwang888/damonwang888.github.io
+repository: DamonWang888/DamonWang888.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,7 +95,7 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: DamonWang888
+    owner: damonwang888
     repo: BlogComment
     oauth:
         client_id: f952cd4277d691c98940
