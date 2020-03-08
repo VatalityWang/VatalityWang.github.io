@@ -27,3 +27,7 @@ keywords: 测试
 
 $a_i$
 
+$b_i+a_i$
+
+
+
