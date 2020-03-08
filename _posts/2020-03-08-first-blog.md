@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一篇博客看
+title: 第一篇博客
 categories: 生活
 description: 随想
 keywords: 测试
@@ -10,3 +10,4 @@ keywords: 测试
 讲一下如何搭建这个博客吧。
 其实很简单。
 ![](/images/blog/image-20200208111327052.png)
+
