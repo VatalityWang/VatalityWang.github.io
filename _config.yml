@@ -91,15 +91,15 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username: 
+# disqus:
+#     username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: DamonWang888
-    repo: BlogComment
-    oauth:
-        client_id: f952cd4277d691c98940
-        client_secret: b1266fa7a5a05cfee8ebf0424aa39066af1a15ad
+# gitment:
+#     owner: DamonWang888
+#     repo: BlogComment
+#     oauth:
+#         client_id: f952cd4277d691c98940
+#         client_secret: b1266fa7a5a05cfee8ebf0424aa39066af1a15ad
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: DamonWang888
