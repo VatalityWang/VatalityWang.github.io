@@ -1,3 +1,11 @@
+---
+layout: post
+title: 第一篇博客
+categories: 生活
+description: 随想
+keywords: 测试
+---
+
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -10,13 +18,6 @@
     </script>
 </head>
 
----
-layout: post
-title: 第一篇博客
-categories: 生活
-description: 随想
-keywords: 测试
----
 
 # 此处是标题
 说点什么好呢？
