@@ -24,7 +24,7 @@ keywords: 测试
 讲一下如何搭建这个博客吧。
 其实很简单。
 
-![](../images/blog/捕获.PNG)
+![](/images/blog/捕获.PNG)
 
 
 
