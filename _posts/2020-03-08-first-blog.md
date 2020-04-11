@@ -24,7 +24,13 @@ keywords: 测试
 讲一下如何搭建这个博客吧。
 其实很简单。
 
-![](/images/blog/image-20200208111327052.png)
+![](../images/blog/捕获.PNG)
+
+
+
+
+
+
 
 $a_i$
 
