@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: windows 下Qt 连接本地mysql
 categories: 学习
 description: mysql性能测试
 keywords: trick
