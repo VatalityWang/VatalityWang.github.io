@@ -1,3 +1,23 @@
+---
+layout: post
+title: mysql 
+categories: 学习
+description: mysql性能测试
+keywords: trick
+
+---
+
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 # windows 下Qt 连接本地mysql
 
 1、安装mysql8.0
