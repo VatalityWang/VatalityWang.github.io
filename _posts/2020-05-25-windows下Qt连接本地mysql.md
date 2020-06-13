@@ -18,7 +18,6 @@ keywords: trick
         });
     </script>
 </head>
-# windows 下Qt 连接本地mysql
 
 1、安装mysql8.0
 
