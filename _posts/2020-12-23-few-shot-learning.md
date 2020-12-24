@@ -31,3 +31,11 @@ keywords: 小样本
 * MAML,Match-network,relation-network
 
   https://github.com/oscarknagg/few-shot
+
+# 仿真数据+ Prototypical Network 6-way 1-shot
+
+![image-20201224105127197](/images/blog/image-20201224105127197.png)
+
+## 仿真数据+AlexNet
+
+![image-20201224105829006](/images/blog/image-20201224105829006.png)
