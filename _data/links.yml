@@ -2,24 +2,85 @@
   url: http://mazhuang.org
   src: life
 
-- name: Connie 酱
-  url: https://connie99.github.io
+- name: Jason
+  url: https://atjason.com/
   src: life
+
+- name: 代码家
+  url: https://daimajia.com/
+  src: life
+
+- name: 创造狮
+  url: http://chuangzaoshi.com/
+  src: life
+
+- name: Hacker News
+  url: https://news.ycombinator.com/
+  src: life
+
+- name: ZDDHUB
+  url: https://www.zddhub.com/
+  src: life
+
+
+- name: 殷建国
+  url: https://taobataoma.github.io/resume/
+  src: life
+
+- name: 阮一峰
+  url: http://www.ruanyifeng.com/blog/
+  src: life
+
+
+- name: Bing Tan
+  url: https://bingtan.me/
+  src: life
+
+- name: 第七根弦的技术博客
+  url: https://love.junzimu.com/
+  src: life
+
+- name: 苏剑林
+  url: https://kexue.fm/
+  src: life
+
+- name: AITopics
+  url: https://aitopics.org/search
+  src: life
+
+- name: Hongyan's Notes
+  url: https://www.yanhong.me/
+  src: life
+
+
+- name: Xu Yang
+  url: https://xdxuyang.github.io/
+  src: life
+
+
+- name: thispersondoesnotexist
+  url: https://thispersondoesnotexist.com/
+  src: life
+
+- name: 刘昊
+  url: https://haoliuphd.github.io/
+  src: life
+
 
 - name: 只宁静不致远
   url: http://zxning.github.io
   src: life
 
-- name: Blog Something
-  url: http://chenxiaoyoyo.github.io
+- name: 如何学习和做好科研
+  url: http://xidian-usa.org/sci_research/
   src: life
 
 - name: 日新亭
   url: http://www.fengerzh.com/
   src: life
 
-- name: 叮咚购
-  url: http://www.ringwang.com/
+- name: 做科研的几点体会：如何多发 SCI
+  url: http://paper.dxy.cn/article/53510?from=singlemessage
   src: life
 
 - name: wanandroid
@@ -42,8 +103,8 @@
   url: https://dp2px.com
   src: www
 
-- name: 孙不服的博客
-  url: https://www.sunbufu.club/
+- name: 如何收集和整理论文（面向CS专业）
+  url: https://ying-zhang.github.io/misc/2016/we-love-paper/
   src: www
 
 - name: 聆听风声
