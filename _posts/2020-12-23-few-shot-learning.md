@@ -22,6 +22,14 @@ keywords: 小样本
 
 ![image-20201223071902751](../images/blog/image-20201223071902751.png)
 
+| MetaGan         | 促使学习更好的决策边界                                       |
+| --------------- | ------------------------------------------------------------ |
+| RelationNet     | 两个网络 ，一个学习特征隐射，一个比较特征                    |
+| PrototypicalNet | 一个网络，一个隐射特征，用距离度量函数来分类                 |
+| MatchNet        | Calculate "attention" as softmax over support-query distances |
+
+
+
 # 代码连接
 
 * relation-network
