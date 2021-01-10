@@ -1,7 +1,7 @@
 ---
 layout: post
 title: journal list
-categories: study
+categories: 学习
 description: note
 keywords: journal
 ---
