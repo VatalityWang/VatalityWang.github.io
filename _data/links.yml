@@ -1,5 +1,49 @@
+- name: 南瓜书
+  url: https://datawhalechina.github.io/pumpkin-book/#/
+  src: life
+
+- name: G-lab 计算机视觉实验室
+  url: http://www.gwylab.com/index.html
+  src: life
+
+- name: 科学网
+  url: http://www.sciencenet.cn/
+  src: life
+
+- name: 跟我一起写makefile
+  url: https://sites.google.com/site/bobstechwiki/home/makefile/write-makefile-with-me
+  src: life
+
+
+
 - name: 码志
   url: http://mazhuang.org
+  src: life
+
+- name: 陈皓
+  url: https://coolshell.cn/
+  src: life
+
+- name: 刘未鹏
+  url: http://mindhacks.cn/
+  src: life
+
+- name: 行思录
+  url: https://liudanking.com/
+  src: life
+
+- name: 王垠
+  url: http://www.yinwang.org/
+  src: life
+
+- name: 洪申达
+  url: https://hsd1503.github.io/
+  src: life
+
+
+  
+- name: hellogithub
+  url: https://hellogithub.com/
   src: life
 
 - name: Jason
