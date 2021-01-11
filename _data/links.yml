@@ -7,6 +7,27 @@
   url: https://zh.d2l.ai/
   src: life
 
+- name: 青柠学术
+  url: https://iseex.github.io/#blog
+  src: life
+
+- name: AI Conference Deadlines
+  url: https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
+  src: life
+
+- name: 会伴
+  url: https://www.myhuiban.com/home
+  src: life
+
+
+- name: 范叶亮
+  url: https://leovan.me/
+  src: life
+
+
+- name: modelzoo
+  url: https://modelzoo.co/
+  src: life
 
 
 
@@ -20,6 +41,10 @@
 
 - name: 科学网
   url: http://www.sciencenet.cn/
+  src: life
+
+- name: 过期杂志阅读平台
+  url: http://www.fx361.com/
   src: life
 
 - name: 跟我一起写makefile
