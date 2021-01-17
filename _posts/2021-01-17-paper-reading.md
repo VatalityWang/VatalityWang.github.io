@@ -139,7 +139,7 @@ ICPR A 会,参考[计算机类顶级会议排名+投稿经验](https://www.twblo
 
 ## 损失函数
 
-$L_{percep} (x_i,z_i;\theta)=\sum_{j} \lambda_j \left \| \xi_j(G_{\theta}([z_i,\varepsilon]))-\xi_j(x_i) \right \| _1 $
+$L_{percep} (x_i,z_i;\theta)=\sum_{j} \lambda_j \| \xi_j(G_{\theta}([z_i,\varepsilon]))-\xi_j(x_i)  \| _1 $
 
 ### 感知损失函数
 
