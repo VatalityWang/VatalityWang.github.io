@@ -144,7 +144,7 @@ $L_{percep} (x_i,z_i;\theta)=\sum_{j} \lambda_j \| \xi_j(G_{\theta}([z_i,\vareps
 ### 感知损失函数
 
 * $z_i\epsilon Z$ ,$Z$:单位球面,在$R^d$ 空间中,表示隐层空间.
-* $x_i \epsilon X \mid  X_i \epsilon R^{3*H*W}$  ,表示训练集中的样本.
+* $x_i \epsilon X \mid  X_i \epsilon R^{3\ast H \ast W}$  ,表示训练集中的样本.
 * $G_\theta$:生成器.
 * $\xi_j(x_i)$ :卷积网络的输出层.
 
