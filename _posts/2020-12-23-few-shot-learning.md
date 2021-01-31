@@ -20,7 +20,7 @@ keywords: 小样本
 
 # 论文总体情况
 
-![image-20201223071902751](../images/blog/image-20201223071902751.png)
+![image-20201223071902751](/images/blog/image-20201223071902751.png)
 
 | MetaGan         | 促使学习更好的决策边界                                       |
 | --------------- | ------------------------------------------------------------ |
@@ -42,8 +42,8 @@ keywords: 小样本
 
 # 仿真数据+ Prototypical Network 6-way 1-shot
 
-![image-20201224105127197](../images/blog/image-20201224105127197.png)
+![image-20201224105127197](/images/blog/image-20201224105127197.png)
 
 ## 仿真数据+AlexNet
 
-![image-20201224105829006](../images/blog/image-20201224105829006.png)
+![image-20201224105829006](/images/blog/image-20201224105829006.png)
