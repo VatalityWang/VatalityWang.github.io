@@ -24,7 +24,7 @@ keywords: small data,few shot
 
 # MetaCGAN A Novel GAN Model for Generating high quality and diversity images with few training data
 
-![image-20210117094956295](/images/blog/image-20210117094956295.png)
+![image-20210117094956295](../images/blog/image-20210117094956295.png)
 
 ## 发表
 
@@ -61,7 +61,7 @@ ICJNN A 会,参考[计算机类顶级会议排名+投稿经验](https://www.twbl
 
   ## 训练算法
 
-![image-20210117145330833](/images/blog/image-20210117145330833.png)
+![image-20210117145330833](../images/blog/image-20210117145330833.png)
 
 ## Tricks
 
@@ -91,7 +91,7 @@ ICJNN A 会,参考[计算机类顶级会议排名+投稿经验](https://www.twbl
   
 # Generative Latent Implicit Conditional Optimization when Learning from Small Sample
 
-![image-20210117150514932](/images/blog/image-20210117150514932.png)
+![image-20210117150514932](../images/blog/image-20210117150514932.png)
 
 ## 发表
 
@@ -148,7 +148,7 @@ $L_{percep} (x_i,z_i;\theta)=\sum_{j} \lambda_j\parallel \xi_j(G_{\theta}([z_i,\
 * $G_\theta$:生成器.
 * $\xi_j(x_i)$ :卷积网络的输出层.
 
-![image-20210117172632460](/images/blog/image-20210117172632460.png)
+![image-20210117172632460](../images/blog/image-20210117172632460.png)
 
 ### 优化目标
 
@@ -162,10 +162,32 @@ $min_\theta \sum_{i=1}^{n}[min_{z_i\epsilon Z}L_{percep}(x_i,z_i;\theta)]$
 
 
 
+# Domain Adaptation through Synthesis for Unsupervised Person Re-identification
 
+## 发表
 
-​	
+ECCV 2018
 
+## 核心思想
 
+提出用基于渲染的合成数据加基于cycle-gan的域迁移来合成新的数据集，用于后续模型微调重识别网络。以实现未知光照条件下的行人重识别。
 
+	## 潜在挑战
 
+* 训练合成数据时需要克服合成数据分布和真实数据分布之间的差异。网络可能只学习到合成数据的特征却没有学到真实数据的特征。
+* 解决：域适应，合成数据看成源域，真实数据看出目标域
+  * 使合成数据更真实。
+  * 最小化源域和目标域数据之间的域迁移。
+  * 给出合成数据和域转换，产生在目标域的训练数据，用于微调，以提升性能。
+
+## 做法
+
+### 域适应
+
+![image-20210131095757582](../images/blog/image-20210131095757582.png)
+
+* 光照推理
+* 域转化
+* 微调
+
+选择一张目标域中的无标签图片，通过光照推理从合成域中选择最接近目标域光照的图片，然后把图片通过转化使源域（合成域）中的图片更像目标域中的图片，但是仍然保留了已知的身份信息，用生成的图片来微调重识别网络。
