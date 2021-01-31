@@ -24,7 +24,7 @@ keywords: small data,few shot
 
 # MetaCGAN A Novel GAN Model for Generating high quality and diversity images with few training data
 
-![image-20210117094956295](../images/blog/image-20210117094956295.png)
+![image-20210117094956295](/images/blog/image-20210117094956295.png)
 
 ## 发表
 
@@ -61,7 +61,7 @@ ICJNN A 会,参考[计算机类顶级会议排名+投稿经验](https://www.twbl
 
   ## 训练算法
 
-![image-20210117145330833](../images/blog/image-20210117145330833.png)
+![image-20210117145330833](/images/blog/image-20210117145330833.png)
 
 ## Tricks
 
@@ -91,7 +91,7 @@ ICJNN A 会,参考[计算机类顶级会议排名+投稿经验](https://www.twbl
   
 # Generative Latent Implicit Conditional Optimization when Learning from Small Sample
 
-![image-20210117150514932](../images/blog/image-20210117150514932.png)
+![image-20210117150514932](/images/blog/image-20210117150514932.png)
 
 ## 发表
 
@@ -148,7 +148,7 @@ $L_{percep} (x_i,z_i;\theta)=\sum_{j} \lambda_j\parallel \xi_j(G_{\theta}([z_i,\
 * $G_\theta$:生成器.
 * $\xi_j(x_i)$ :卷积网络的输出层.
 
-![image-20210117172632460](../images/blog/image-20210117172632460.png)
+![image-20210117172632460](/images/blog/image-20210117172632460.png)
 
 ### 优化目标
 
@@ -184,7 +184,7 @@ ECCV 2018
 
 ### 域适应
 
-![image-20210131095757582](../images/blog/image-20210131095757582.png)
+![image-20210131095757582](/images/blog/image-20210131095757582.png)
 
 * 光照推理
 * 域转化
