@@ -95,7 +95,7 @@ return a.exec();
 ```
 5、F5 编译
 
-![image-20200525103956935](../images/blog/image-20200525103956935.png)
+![image-20200525103956935](/images/blog/image-20200525103956935.png)
 
 6、查找问题：
 
@@ -107,7 +107,7 @@ return a.exec();
 
 7、成功解决：
 
-![image-20200525104618592](../images/blog/image-20200525104618592.png)
+![image-20200525104618592](/images/blog/image-20200525104618592.png)
 
 
 
