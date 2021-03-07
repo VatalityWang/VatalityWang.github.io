@@ -22,7 +22,7 @@ keywords: signal process
 
 # Domain adaption
 
-
+迁移学习常见问题之一，域不同但任务相同，且源域数据有标签而目标域数据没有标签或者很少标签。
 
 
 
