@@ -17,6 +17,8 @@ keywords: journal
         });
     </script>
 </head>
+# 1 初选
+
 
 | [IEEE Journal of Selected Topics in Signal Processing](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3338) |
 | ------------------------------------------------------------ |
@@ -50,19 +52,19 @@ keywords: journal
 
 
 
-# UESTC重要国际会议(2016版)
+# 2 UESTC重要国际会议(2016版)
 
 | 名称                                                         | 级别 | 截稿日期   | 通知日期   |
 | ------------------------------------------------------------ | ---- | ---------- | ---------- |
 | Asia-Pacific  Signal and Information Processing Association  |      | 2021-07-01 | 2021-08-31 |
-| ACM  International Conference on Ubiquitous Computing        |      | 2021-06-15 | 2021-07-15 |
-| International  Conference on Signal Processing               |      | 2021-05-25 | 2021-06-15 |
-| International  Conference on Wireless Communications and Signal Processing |      | 2021-06-15 | 2021-08-01 |
-| international conference on digital signal processing        |      | 2021-09-15 | 2021-10-15 |
+| ACM  International Conference on Ubiquitous Computing        |      | 2021-06-04 | 2021-07-20 |
+| International  Conference on Signal Processing               |      | 2021-06-30 | 2021-07-15 |
+| International  Conference on Wireless Communications and Signal Processing |      | 2021-05-25 | 2021-6-15  |
+| international conference on digital signal processing        |      | 2021-07-15 | 2021-08-15 |
 
 
 
-# 清华大学重要国际会议
+# 3 清华大学重要国际会议
 
 | 名称                                                         | 级别    | 截稿日期     | 通知日期   |
 | ------------------------------------------------------------ | ------- | ------------ | ---------- |
@@ -71,7 +73,6 @@ keywords: journal
 | IEEE International Conference on Acoustics, Speech and Signal Processing | A类会议 | 已过截稿日期 |            |
 
  
-
 
 
 
