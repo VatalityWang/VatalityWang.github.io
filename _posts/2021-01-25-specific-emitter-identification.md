@@ -20,7 +20,7 @@ keywords: signal process
 
 
 
-# Domain adaption
+# 1 Domain adaption
 
 迁移学习常见问题之一，域不同但任务相同，且源域数据有标签而目标域数据没有标签或者很少标签。
 
@@ -28,7 +28,7 @@ keywords: signal process
 
 
 
-# traditional signal process
+# 2 traditional signal process
 
 
 
@@ -36,17 +36,17 @@ keywords: signal process
 
 
 
-# few shot 
+# 3 few shot 
 
 
 
 
 
-# adversarial 
+# 4 adversarial 
 
-## Discriminative adversarial networks for specific emitter identification  
+## 4.1 Discriminative adversarial networks for specific emitter identification  
 
-### 核心思想
+### 4.1.1 核心思想
 
 * 同一类型的不同个体包含的特征有意调制和无意调制两种。
 * 有意调制（IMI）是相同的特征，而无意调制(UMI)特征是不同的。
@@ -58,7 +58,7 @@ keywords: signal process
 * 圆：两个辐射源个体的共有特征。
 * 三角：两个辐射源个体的独有特征。
 
-## 整体网络架构
+### 4.1.2 整体网络架构
 
 ![image-20210125205925767](/images/blog/image-20210125205925767.png)
 
