@@ -184,7 +184,7 @@ $F[i][j]=max(F[i-1][j],F[i-1][j-C[i]]+V[i])$
 >
 > ​    以一个长度为3的字符串为例：
 >
-> ![image-20210827102739277](E:\SelfStudy\DamonWang888.github.io\_posts\images\image-20210827102739277.png)
+> ![image-20210827102739277](\images\blog\image-20210827102739277.png)
 
 ### 2.2.4 
 
