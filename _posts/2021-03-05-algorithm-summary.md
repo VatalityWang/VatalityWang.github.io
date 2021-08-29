@@ -127,7 +127,7 @@ $F[i][j]=max(F[i-1][j],F[i-1][j-C[i]]+V[i])$
 
 ### 2.2.2 零钱兑换
 
-### 2.2.3 一些关键词
+## 2.3 一些关键词
 
 **最长**:  [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence)；[剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof)；==[5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)==；[516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence)；[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence)；
 
@@ -186,7 +186,7 @@ $F[i][j]=max(F[i-1][j],F[i-1][j-C[i]]+V[i])$
 >
 > ![image-20210827102739277](/images/blog/image-20210827102739277.png)
 
-### 2.2.4 
+## 2.4 一维/二维
 
 一维动态规划
 
@@ -204,7 +204,7 @@ i,j分别表示，i表示一种变量，j表示另外一种变量。如背包问
 
 ```
 
-## 2.3 注意事项
+## 2.5 注意事项
 
 * dp数组下标及其含义；
 * 递推公式；
@@ -269,8 +269,6 @@ i,j分别表示，i表示一种变量，j表示另外一种变量。如背包问
 ## 6.2 元素部分有序
 
 [611. 有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number)
-
-
 
 # 7 排序
 ## 7.1 稳定排序
