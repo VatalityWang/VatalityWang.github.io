@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 流程图
+title: CustomizedTerminal
 categories: 学习
 description: mermaid
 keywords: flowcat code

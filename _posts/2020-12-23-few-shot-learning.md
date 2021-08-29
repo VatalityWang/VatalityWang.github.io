@@ -18,7 +18,7 @@ keywords: 小样本
     </script>
 </head>
 
-# 论文总体情况
+# 1 论文总体情况
 
 ![image-20201223071902751](/images/blog/image-20201223071902751.png)
 
@@ -30,7 +30,7 @@ keywords: 小样本
 
 
 
-# 代码连接
+# 2 代码连接
 
 * relation-network
 
@@ -40,10 +40,12 @@ keywords: 小样本
 
   https://github.com/oscarknagg/few-shot
 
-# 仿真数据+ Prototypical Network 6-way 1-shot
+# 3 实验仿真
+
+## 3.1 仿真数据+ Prototypical Network 6-way 1-shot
 
 ![image-20201224105127197](/images/blog/image-20201224105127197.png)
 
-## 仿真数据+AlexNet
+## 3.2 仿真数据+AlexNet
 
 ![image-20201224105829006](/images/blog/image-20201224105829006.png)
