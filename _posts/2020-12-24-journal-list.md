@@ -27,7 +27,7 @@ keywords: journal
 | [SIGNAL PROCESSING](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=7505) |
 | [IEEE TRANSACTIONS ON SIGNAL PROCESSING](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3419) |
 
-![image-20201225143534780](../images/blog/image-20201225143534780.png)	
+![image-20201225143534780](/images/blog/image-20201225143534780.png)	
 
 
 
