@@ -22,7 +22,7 @@ keywords: small data,few shot
 
 
 
-# MetaCGAN A Novel GAN Model for Generating high quality and diversity images with few training data
+# 1 MetaCGAN A Novel GAN Model for Generating high quality and diversity images with few training data
 
 ![image-20210117094956295](/images/blog/image-20210117094956295.png)
 
@@ -89,7 +89,7 @@ ICJNN A 会,参考[计算机类顶级会议排名+投稿经验](https://www.twbl
   * 评估CelebA上生成的图像.
 
   
-# Generative Latent Implicit Conditional Optimization when Learning from Small Sample
+# 2 Generative Latent Implicit Conditional Optimization when Learning from Small Sample
 
 ![image-20210117150514932](/images/blog/image-20210117150514932.png)
 
@@ -162,7 +162,7 @@ $min_\theta \sum_{i=1}^{n}[min_{z_i\epsilon Z}L_{percep}(x_i,z_i;\theta)]$
 
 
 
-# Domain Adaptation through Synthesis for Unsupervised Person Re-identification
+# 3 Domain Adaptation through Synthesis for Unsupervised Person Re-identification
 
 ## 发表
 
