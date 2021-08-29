@@ -56,7 +56,7 @@ keywords: 散列表
 * 乘法散列
 # 2 B 树
 
-![img](E:\SelfStudy\DamonWang888.github.io\_posts\images\1460000020416594)
+![img](/images/blog/400px-B-tree.svg.png)
 
 ## 2.1 定义
 一棵B树是具有一下性质的有根树(自平衡多叉树)：
@@ -84,9 +84,9 @@ $h<=log_t \frac{n+1}{2}$
 
 可视化网址：https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
 
-![img](\images\v2-5f069fd820637db1b877fdd6799a2b67_720w.jpg)
+![img](/images/blog/v2-5f069fd820637db1b877fdd6799a2b67_720w.jpg)
 
-![img](\images\v2-9644d1a1f83d3e45da779f2e63c35d55_720w.jpg)
+![img](/images/blog/v2-9644d1a1f83d3e45da779f2e63c35d55_720w.jpg)
 
 # 4 B树与B+树的区别
 * B+树的层级更少：相较于B树B+每个非叶子节点存储的关键字数更多，树的层级更少所以查询数据更快；因为B+ 树非叶子节点上是不存储数据的，仅存储键值，而 B 树节点中不仅存储键值，也会存储数据。之所以这么做是因为在数据库中页的大小是固定的，InnoDB 中页的默认大小是 16KB。如果不存储数据，那么就会存储更多的键值，相应的树的阶数(节点的子节点树)就会更大，树就会更矮更胖，如此一来我们查找数据进行磁盘的 IO 次数又会再次减少，数据查询的效率也会更快。另外，B+ 树的阶数是等于键值的数量的，如果我们的 B+ 树一个节点可以存储 1000 个键值，那么 3 层 B+ 树可以存储 1000×1000×1000=10 亿个数据。
