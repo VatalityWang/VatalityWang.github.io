@@ -128,7 +128,26 @@ struct Edge
 }edge[maxn];//边集
 ```
 
-#### 5.1.3.2 示例
+#### 5.1.3.2 初始化步骤
+
+```c++
+void init()//初始化
+{
+    for (int i = 0; i <= n; i++) head[i] = -1;
+    cnt = 0; //图的边编号起始点
+}
+void add_edge(int u, int v, int w)//加边，u起点，v终点，w边权
+{
+    edge[cnt].to = v; //终点
+    edge[cnt].w = w; //权值
+    edge[cnt].next = head[u];//以u为起点上一条边的编号，也就是与这个边起点相同的上一条边的编号
+    head[u] = cnt++;//更新以u为起点上一条边的编号
+}
+```
+
+
+
+#### 5.1.3.3 示例
 
 ![image-20210830165913189](/images/blog/image-20210830165913189.png)
 
