@@ -157,3 +157,5 @@ void add_edge(int u, int v, int w)//加边，u起点，v终点，w边权
 
 ![image-20210830170049377](/images/blog/image-20210830170049377.png)
 
+参考：[链式前向星--最通俗易懂的讲解](https://blog.csdn.net/sugarbliss/article/details/86495945)
+
