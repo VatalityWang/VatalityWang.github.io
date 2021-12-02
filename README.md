@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://vatalitywang.github.io)**
 
-![screenshot home](https://vatalitywang/assets/images/screenshots/home.png)
+![screenshot home](https://vatalitywang.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
