@@ -1,6 +1,6 @@
 # Vatality
 
-我的个人博客：<https://vatalirywang.github.io>，欢迎 Star 和 Fork。
+我的个人博客：<https://vatalitywang.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://vatalitywang.github.io)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://vatalitywang/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
