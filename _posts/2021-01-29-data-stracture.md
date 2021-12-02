@@ -149,13 +149,13 @@ void add_edge(int u, int v, int w)//加边，u起点，v终点，w边权
 
 #### 5.1.3.3 示例
 
-![image-20210830165913189](../images/blog/image-20210830165913189.png)
+![image-20210830165913189](/images/blog/image-20210830165913189.png)
 
 各个成分数组步骤如下：
 
-![image-20210830170034140](../images/blog/image-20210830170034140.png)
+![image-20210830170034140](/images/blog/image-20210830170034140.png)
 
-![image-20210830170049377](../images/blog/image-20210830170049377.png)
+![image-20210830170049377](/images/blog/image-20210830170049377.png)
 
 参考：[链式前向星--最通俗易懂的讲解](https://blog.csdn.net/sugarbliss/article/details/86495945)
 
