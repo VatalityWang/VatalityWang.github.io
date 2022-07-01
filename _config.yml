@@ -98,14 +98,14 @@ gitment:
     owner: VatalityWang
     repo: BlogComment
     oauth:
-        client_id: f952cd4277d691c98940
-        client_secret: b1266fa7a5a05cfee8ebf0424aa39066af1a15ad
+        client_id: e223e33c5406e1eb2f71
+        client_secret: a14ce357ba05f7320e1595ac4fe40a132d43a8e6		
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: VatalityWang
     repo: BlogComment
-    clientID: f952cd4277d691c98940
-    clientSecret: b1266fa7a5a05cfee8ebf0424aa39066af1a15ad
+    clientID: e223e33c5406e1eb2f71
+    clientSecret: a14ce357ba05f7320e1595ac4fe40a132d43a8e6		
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
