@@ -26,9 +26,9 @@ keywords: divide and conquer
 
 ## 1.1 思想定义
 
-* 原问题可分解为几个规模较小，但类似于原问题的子问题。
+* 原问题可分解为几个规模较小，但类似于原问题的子问题；
 
-* 递归地求解这些子问题。
+* 递归地求解这些子问题；
 
 * 合并子问题的解得到原问题的解。
 
@@ -99,6 +99,14 @@ void  merge(vector<int>&input,int p,int q,int r)
 * 利用计算出的信息刻画最优解。
 * 思考：局部最大不一定是全局最大？
 
+### 套路
+
+* 定义dp数组及其下标含义；
+* 确定递推公式；
+* 初始化dp数组；
+* 确定dp数组遍历顺序；
+* debug：打印dp数组变化情况。
+
 ## 2.2 典型问题
 
 ### 2.2.1 背包问题
@@ -129,7 +137,9 @@ $F[i][j]=max(F[i-1][j],F[i-1][j-C[i]]+V[i])$
 
 ## 2.3 一些关键词
 
-**最长**:  [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence)；[剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof)；==[5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)==；[516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence)；[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence)；
+**最长**:  [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence)；==[5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)==；[516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence)；[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence)；[718. 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/)；
+
+**最大：**[剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof)；
 
 **最小**：[120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle)；
 
@@ -237,7 +247,7 @@ i,j分别表示，i表示一种变量，j表示另外一种变量。如背包问
 
 ### 4.2.1 Prim（选顶点）
 
-每一步都会为一棵生长中的树添加一条==边==，该树最开始只有一个[顶点](https://zh.wikipedia.org/wiki/顶点_(图论))，然后会添加V-1条边。每次总是添加生长中的树和树中除该生长的树以外的部分形成的切分的具有最小权值的横切边。
+每一步都会为一棵生长中的树添加一条==边==，该树最开始只有一个[顶点](https://zh.wikipedia.org/wiki/顶点_(图论))，然后会添加V-1条边。每次总是添加生长中的树和树中除该生长的树以外的部分形成的切分具有最小权值的横切边。
 
 > 时间复杂度：
 >
@@ -264,6 +274,11 @@ i,j分别表示，i表示一种变量，j表示另外一种变量。如背包问
 ### 5.2.2 非递归
 
 # 6 二分
+
+## 基本思想
+
+利用排序，减少查找次数，每次缩小整个元素一半的查找氛围，时间复杂度：o(n)--->log(n)；
+
 ## 6.1 元素全部有序
 
 ## 6.2 元素部分有序
@@ -279,6 +294,14 @@ i,j分别表示，i表示一种变量，j表示另外一种变量。如背包问
 ==快排+链表==
 
 # 8 回溯法模板
+
+## 基本思想
+
+暴力式搜索所有可能，遇见满足条件的搜索结果，存入结果集中，最后返回结果集。
+
+常用实现形式：循环里套递归。
+
+剪枝：根据所需结果，调整遍历范围，减少循环迭代次数，递归次数，加快算法结果。
 
 ## 8.1 枚举子集
 
